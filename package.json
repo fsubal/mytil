@@ -1,0 +1,27 @@
+{
+  "name": "mytil",
+  "version": "1.0.0",
+  "description": "simple Either and Option library with Promise-like interface.",
+  "main": "index.js",
+  "directories": {
+    "example": "example",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fsubal/mytil.git"
+  },
+  "keywords": [
+    "either",
+    "option"
+  ],
+  "author": "Subal FUJIAKI",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fsubal/mytil/issues"
+  },
+  "homepage": "https://github.com/fsubal/mytil#readme"
+}
